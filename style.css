@@ -1,0 +1,54 @@
+table{
+    border: 1px solid black;
+    border-radius:2px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  th,td{
+    height: 70px;
+    width: 70px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr{
+    border: 2px solid black;
+  }
+  
+  #Bmw{
+    max-width: 200px;
+    border: 2px solid black;
+    border-radius: 50px;
+    
+  }
+  
+  #Honda{
+    max-width: 200px;
+    border: 2px solid black;
+    border-radius: 60px;
+    
+  }
+  
+  #Volvo{
+    max-width: 200px;
+    border: 2px solid black;
+    border-radius: 50px;
+    
+  }
+  
+  #Porsche{
+    max-width: 200px;
+    border: 2px solid black;
+    border-radius: 50px;
+    
+  }
+  
+  #Lamborghini{
+    max-width: 200px;
+    border: 2px solid black;
+    border-radius: 50px;
+    
+  }
+  
+  
